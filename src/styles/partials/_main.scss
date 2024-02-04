@@ -1,0 +1,14 @@
+main {
+    flex: 1;
+    & > div {
+        width: 90%;
+        max-width: 1400px;
+        margin: auto;
+        margin-top: 52px;
+    }
+
+    .home-route {
+        width: 100%;
+        max-width: 100%;
+    }
+}
